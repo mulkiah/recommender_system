@@ -1,0 +1,6 @@
+# Jupyter Notebook specific
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Ignore generated files
+__pycache__/
